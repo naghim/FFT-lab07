@@ -1,5 +1,29 @@
 # Labor 07
 
+## FFT projekt
+
+A projekt célja az, hogy alkalmazzuk, gyakoroljuk a tanult felhasználói felületek tervezési fázisait és fogalmait. A projekt célja az emberközpontú tervezési folyamat gyakorlati alkalmazása. A tervezési folyamatnak tartalmaznia kell a következő nagyobb fázisokat:
+
+- Felhasználói kutatás és elemzés:
+  - Problémafelvetés: Miről szól a projekt? Milyen valós problémára ad választ az alkalmazás? Mi a motiváció?
+  - Célközönség meghatározása (Personák): Legalább 2 fiktív karakter (névvel, célokkal, fájdalompontokkal), akik az elsődleges célcsoportot reprezentálják.
+  - Piackutatás: Legalább 2-3 már meglévő megoldás elemzése (erősségek, gyengeségek). Mik az erősségük/hátrányuk? Mivel lehetne kibővíteni őket? Milyen teljesen új ötlettel lehetne előállni?
+    - Felhasználók véleményének begyűjtése a jelenlegi megoldásokról: kérdőívek, mélyinterjú potenciális fájdalompontok azonosítására
+- Prototípus-készítés:
+  - Fő funkciók (use case-k) felsorolása / diagram
+  - Papíralapú vázlatok vagy digitális drótvázak (Lo-Fi), amelyek a szerkezeti felépítésre fókuszálnak, nem a dizájnra.
+  - High-Fidelity prototípus: interaktív, kattintható prototípus készítése (ajánlott eszköz: [Figma](https://figma.com)). Döntsük el, milyen színeket (_color palette_), betűtípusokat (_typography_) és egyéb komponenseket használunk (például milyen fajta ikonokat - kitöltött vagy sem). Figyeljünk a kontrasztosságra és az olvashatóságra.
+- Felületek értékelése:
+  - A prototípus formálisabb értékelése. A felhasználók interfészhasználat közben szerzett aktuális tapasztalatait gyűjtjük össze (mélyinterjú, kérdőívek stb). A tesztelés során kapott visszajelzések alapján elvégzett módosítások dokumentálása.
+
+A végső dokumentáció ezt a bejárt **tervezési folyamatot** kell ismertesse fázisonként, és bemutassa az elkészített prototípust (prototípusokat), kiemelve és részletezve a tervezési döntéseket (mi miért lett úgy tervezve, ahogy az a prototípusban szerepel). Személyes tapasztalat megosztása. További fejlesztési lehetőségek taglalása.
+
+**Fontos:** A végső ötlet tényleges implementálása nem szükséges, a projektnek nem célja a kódolás/implementálás. A hangsúly a tervezési folyamatokon van!
+
+A projektet egy PowerPoint bemutató keretén belül az utolsó labor órán kell bemutatni. A projektet lehet párban készíteni. Dokumentáció követheti a fent leírt sémát.
+
+---
+
 ### Fájlkezelés
 
 A fájlkezelés egy fontos része az alkalmazásfejlesztésnek, és a Qt lehetőséget kínál erre is. Fájlokat a Qt segítségével a következőképp lehet kezelni, a dokumentációban további részleteket és lehetőségeket találhatsz ezekkel kapcsolatosan:
